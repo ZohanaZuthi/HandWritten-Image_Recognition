@@ -1,6 +1,3 @@
-Here's a sample `README.md` for a handwritten image classification project:
-
-```markdown
 # Handwritten Image Classification
 
 This project focuses on classifying handwritten digits from the popular MNIST dataset using machine learning techniques.
@@ -107,6 +104,3 @@ Test Accuracy: 98.6%
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
-
-Feel free to customize the content, especially the model architecture, depending on your specific implementation.
